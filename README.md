@@ -33,18 +33,30 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
 5. communication to stakeholders on the progress of the work
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+1. ides provide set of tools  for developer towrote develop and, compile and debug code while vcs manage different types ofsource code and manage developers
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-
+1. degugging - this can take alot of time and be overcome by using system provide ides to check for errors early can solve the problem.
+2. code quality is difficult to maintain. follow the quality asurance standards to ensure proper coding
+3. 3.collarobation is difficult when a bifg team is involved in code design. ensure that is a centralized point for code sharing.
+4. testing. modules have to be tested to ensure that they meet the functionality.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+1. unit testing ensure testing individual components of code
+2. integration testing involve testing how different components of code work together
+3. system testing involves testing the entire software to ensure that it eets systm requirements
 
 
 #Part 2: Introduction to AI and Prompt Engineering
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+1. it is the process of defining clear instructions to interact  with the ai tools
+2. 
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+vague prompt can be tell me about the road
+the more improve can be tell me about the distance of the road from nairobi to kisumu.
+the mproved prompt tells the ai to provide the concent about the topic that have enough clear information.
